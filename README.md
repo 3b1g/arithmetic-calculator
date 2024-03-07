@@ -1,4 +1,4 @@
-# Arithmetic Calculator
+K9# Arithmetic Calculator
 
 This simple calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. Users can choose an operation, input operands, and receive the result.
 
@@ -26,7 +26,7 @@ This project showcases the implementation of basic arithmetic operations using P
 
 ## Connect with Me
 
-Feel free to connect with me on [LinkedIn](#https://www.linkedin.com/in/3b1g?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/3b1g?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android app) 
 
 ---
 
